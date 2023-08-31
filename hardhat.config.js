@@ -26,8 +26,8 @@ module.exports = {
       chainId:31337
     },
     rinkeby:{
-      url:'https://eth-rinkeby.alchemyapi.io/v2/g5UObLj-OFZHyAD_nrEmGZNS0zPiPFKz',
-      accounts:['0xc42167d564177aa5a2edff67d073824f89f4b8b7d2ccd1db5c2ab058c7165e05']
+      url:'https://eth-rinkeby.alchemyapi.io/v2/KEY',
+      accounts:['KEY']
     }
   }
 };
